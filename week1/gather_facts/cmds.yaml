@@ -1,0 +1,17 @@
+Commands:
+    - CDP: show cdp neighbor detail
+    - VERSION: show version
+
+Devices:
+    - DeviceName: NX9396-01
+      IP: 192.168.1.123
+      User: admin
+      Password: Cisco.com
+    - DeviceName: NX9508-01
+      IP: 10.2.1.8
+      User: admin
+      Password: Cisco.com
+    - DeviceName: NX9508-02
+      IP: 10.2.1.9
+      User: admin
+      Password: Cisco.com
